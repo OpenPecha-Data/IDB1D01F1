@@ -1,0 +1,16 @@
+id: IDB1D01F1
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:57:50.410052
+last_modified: 2023-02-09 14:57:50.410204
+source_metadata:
+  title: 'RK: Kāśyapaparivarta'
+  language: sa
+bases:
+  28FE:
+    base_file: 28FE.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

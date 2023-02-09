@@ -1,0 +1,79 @@
+id: cf6da5fbfbb84102bc29c226070ef22f
+annotation_type: index
+revision: '00001'
+annotations:
+  789e8cb0d6fd42a79354229941db1848:
+    base: 28FE.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 16
+    - title: Introduction
+      span:
+        start: 17
+        end: 25
+    - title: §0-10
+      span:
+        start: 26
+        end: 9529
+    - title: §11-20
+      span:
+        start: 9530
+        end: 15895
+    - title: §21-30
+      span:
+        start: 15896
+        end: 20927
+    - title: §31-40
+      span:
+        start: 20928
+        end: 24172
+    - title: §41-50
+      span:
+        start: 24173
+        end: 29998
+    - title: §61-70
+      span:
+        start: 29999
+        end: 33243
+    - title: §71-80
+      span:
+        start: 33244
+        end: 35270
+    - title: §81-90
+      span:
+        start: 35271
+        end: 40336
+    - title: §91-100
+      span:
+        start: 40337
+        end: 46122
+    - title: §101-110
+      span:
+        start: 46123
+        end: 51982
+    - title: §111-120
+      span:
+        start: 51983
+        end: 54752
+    - title: §121-130
+      span:
+        start: 54753
+        end: 60500
+    - title: §130-20
+      span:
+        start: 60501
+        end: 66440
+    - title: §141-150
+      span:
+        start: 66441
+        end: 71856
+    - title: §151-160
+      span:
+        start: 71857
+        end: 77559
+    - title: §161-166
+      span:
+        start: 77560
+        end: 78021
